@@ -1,4 +1,4 @@
-# L9, Exercise C – Webhook → Save to File
+# L9, Exercise C – Webhook → Save to Fil
 
 Create a workflow in **n8n** that receives a note via a **Webhook** parameter, adds a timestamp, and appends the text to a file stored in your Codespace (`/data/notes.txt`).
 

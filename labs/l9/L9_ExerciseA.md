@@ -12,7 +12,7 @@ Create a workflow in **n8n** that receives an event name via a **Webhook**, adds
 
 NOTE: In the `L9/solutions/L9_ExerciseA.md provide a screenshots showing a newly created, properly named workflow.
 
----
+
 
 ## Step 2: Add a Webhook Node
 1. Drag a **Webhook** node onto the canvas.
